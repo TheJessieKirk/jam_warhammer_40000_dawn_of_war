@@ -3,10 +3,11 @@
 UIName = $20000000
 Description = JXP2 Project.
 DllName = WXPMod
-ModFolder = JXP2
+ModFolder = jxp2
 ModVersion = 0.1.0
 TextureFE =
 TextureIcon =
-DataFolder.1 = Data
-RequiredMod.1 = WXP
-RequiredMod.2 = W40k
+DataFolder.1 = data
+ArchiveFile.1 = winter_assault_core
+RequiredMod.1 = wxp
+RequiredMod.2 = w40k
