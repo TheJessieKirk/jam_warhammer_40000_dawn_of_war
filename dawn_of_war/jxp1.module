@@ -9,4 +9,5 @@ TextureFE =
 TextureIcon =
 DataFolder.1 = data
 ArchiveFile.1 = dawn_of_war_core
+ArchiveFile.2 = jxp1_sound
 RequiredMod.1 = w40k
