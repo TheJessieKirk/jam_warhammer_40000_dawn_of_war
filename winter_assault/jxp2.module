@@ -9,5 +9,6 @@ TextureFE =
 TextureIcon =
 DataFolder.1 = data
 ArchiveFile.1 = winter_assault_core
+ArchiveFile.2 = jxp2_sound
 RequiredMod.1 = wxp
 RequiredMod.2 = w40k
